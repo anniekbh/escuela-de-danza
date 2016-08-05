@@ -1,0 +1,54 @@
+*{
+	box-sizing: border-box;
+}
+header{
+	height: 200px;
+	padding: 2%;
+}
+h3{
+	color:#838BA1;
+	text-align: center;
+	font-size: 32px;
+	margin: 4%;
+}
+header nav a{
+	text-decoration: none;
+	margin:5%;
+	color:#D1D7D6;
+	text-align: center;
+}
+.seis{
+	padding: 5%;
+	background-image:url(../img/shoes_1.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	height: 500px;
+}
+.formulario{
+	padding: 2% 3% 2% 30%;
+}
+input{
+	margin-bottom: 25px;
+	width: 450px;
+}
+textarea{
+	width: 450px;
+	height: 120px;
+	background-color: rgba(0,0,0,0.0);
+}
+.seis button{
+	margin:2% 0%;
+	width: 450px;
+	height: 50px;
+}
+footer{
+	background-color:#192951;
+	height: 60px;
+}
+footer p{
+	color:#D1D7D6;
+	font-size:12px;
+	padding-top: 2%;
+	padding-left: 2%;
+	margin: 0%;
+}

@@ -1,0 +1,52 @@
+.uno{
+	background-image:url(../img/dance_7.jpg);
+	background-repeat:no-repeat;
+	background-size:150%;
+	height:420px;
+	background-position: 0% 40%; 
+	padding-left: 6%;
+	padding-top: 9%;
+}
+.uno .sobre{
+	background-color: black;
+	opacity: 0.5;
+	width: 600px;
+	height: 220px;
+	padding: 3%;
+}
+.uno .sobre h3, p{
+	color: white;
+	text-align: center;
+}
+.dos{
+	background-image: url(../img/cubes.png);
+	height: 380px;
+	padding-top: 8%;
+}
+.pilar{
+	text-align: center;
+	padding: 3%;
+}
+.pilar h4, p{
+	color: #BFC2C2;
+}
+h2{
+	text-align: center;
+	padding: 25px;
+}
+.inst{
+	margin: 25px;
+	width: 260px;
+	height: 300px;
+}
+.profesor{
+	width: 200px;
+	height: 200px;
+}
+.inst p{
+	text-align: left;
+}
+.cuatro{
+	padding: 5%;
+	background-image: url(../img/textura_2.jpg);
+}

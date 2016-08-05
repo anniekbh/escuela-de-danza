@@ -1,0 +1,58 @@
+.uno{
+	background-image: url("../img/dance_1.jpg");
+	height: 500px;
+	padding: 10%;
+}
+h1{
+	margin: 10% 5%;
+	color: #C3C6C5;
+	font-size: 70px;
+}
+button{
+	margin: 15% 5%;
+	background-color: #192951;
+	border-color: #192951;
+	color:white;
+}
+.dos{
+	padding: 5%;
+	background-image: url(../img/textura_2.jpg);
+}
+.dos button{
+	margin:0%;
+}
+.flor{
+	width: 120px;
+	height: 100px;
+}
+.chino{
+	background-image: url(../img/instructor_4.jpg);
+	background-size: cover;
+	border:2px solid #192951;
+	height: 300px;
+	padding-top: 256px;
+}
+.balerina{
+	background-image: url(../img/profesor_9.jpg);
+	background-size: cover;
+	border:2px solid #192951;
+	height: 300px;
+}
+.tres button{
+	position: relative;
+	margin:0px 0px 0px 542px;
+	box-sizing: content-box;
+	width: 136px;
+}
+.cuatro{
+	padding: 5%;
+	background-image: url(../img/textura_2.jpg);
+}
+.cinco{
+	padding: 5%;
+	background-color:#192951;
+	color:#B6BBC7;
+}
+.cinco h4{
+	color:#B6BBC7;
+}
